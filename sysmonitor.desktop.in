@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=SysMonitor
+GenericName=桌面系统监视器
+Comment=透明 · 蓝色 · 可拖动的系统状态悬浮窗
+Exec=EXEC_PATH
+Terminal=false
+Categories=System;Monitor;Utility;
+X-GNOME-Autostart-enabled=true
